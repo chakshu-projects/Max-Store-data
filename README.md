@@ -1,3 +1,4 @@
+<img width="1366" height="751" alt="Screenshot 2026-05-08 223531" src="https://github.com/user-attachments/assets/f5007a6b-ada2-42d5-93ff-6fc8609685e1" />
 # Max-Store-data
 
 
@@ -27,5 +28,5 @@
        (c) March is considered as the peak month for the store  
        (d) The adults age-group has the highest contribution in sales  
 ### 6) Dashboard Preview         
-      ![image alt]("C:\Users\91770\Desktop\Screenshot 2026-05-08 223531.png")
+      ![image alt]()
 
