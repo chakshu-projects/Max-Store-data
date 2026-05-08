@@ -2,7 +2,7 @@
 
 
 ### 1) Project Overview  
-       This project presents an interactive Sales Dashboard built using Power BI to analyze retail data from Max Store. The dashboard provides insights into sales            performance, customer behavior, and product trends to support data-driven decision-making
+       This project presents an interactive Sales Dashboard built using Power BI to analyze retail data from Max Store. The dashboard provides insights into sales performance, customer behavior, and product trends to support data-driven decision-making
 
 ### 2) Dataset Description  
       (a) Product details (Category, Size , SKU, Amount)  
