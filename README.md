@@ -1,3 +1,5 @@
+## Dashboard Preview
+ <img width="1366" height="751" alt="Screenshot 2026-05-08 223531" src="https://github.com/user-attachments/assets/d190f76b-31bd-4d92-b52c-b2ea120353c0" />
 
 ## Max-Store-data
 
@@ -27,6 +29,3 @@
        (b) The Set is the top-selling product category  
        (c) March is considered as the peak month for the store  
        (d) The adults age-group has the highest contribution in sales  
-### 6) Dashboard Preview         
-      ![image alt](https://github.com/chakshu-projects/Max-Store-data/blob/1dc69ee32450e53ec8d751ed26210d4e1b045ebc/Screenshot%202026-05-08%20223531.png)
-
