@@ -27,5 +27,5 @@
        (c) March is considered as the peak month for the store  
        (d) The adults age-group has the highest contribution in sales  
 ### 6) Dashboard Preview         
-      
+      ![image alt]("C:\Users\91770\Desktop\Screenshot 2026-05-08 223531.png")
 
